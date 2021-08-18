@@ -1,0 +1,1 @@
+export type UserIdReturningArrayType = Array<{id: number}>;

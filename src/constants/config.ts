@@ -1,0 +1,1 @@
+exports.IMAGES_PATH = "./images";
